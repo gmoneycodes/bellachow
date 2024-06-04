@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gmoneycodes
+- 👋 Hi, I’m @bellachow
 - 👀 I’m interested in Machine Learning, Quantitative Finance
 - 🌱 I’m currently learning Rust
 
